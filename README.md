@@ -3,8 +3,11 @@ Training on MNIST data and achived best training accuracy: 99.41 and best test a
 It contains multiple files as I have added the following:
 
   RandomRotation
+  
   Global average pooling
+  
   Dropout 
+  
   BatchNorm & ReLU.
   
   
